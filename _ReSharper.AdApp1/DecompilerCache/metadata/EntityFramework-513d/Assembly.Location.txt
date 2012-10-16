@@ -1,0 +1,1 @@
+C:\Users\kferrara\Documents\Visual Studio 2010\Projects\AdApp1\packages\EntityFramework.5.0.0-rc\lib\net40\EntityFramework.dll

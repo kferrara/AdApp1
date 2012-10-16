@@ -1,0 +1,271 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/f:Web.config" caret="1270" fromTop="22" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/f:Global.asax.cs" caret="571" fromTop="20" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Migrations/f:201209151122224_Initial.cs" caret="0" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Models/f:AdApp1Db.cs" caret="3284" fromTop="94" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/f:EntitiesContextInitializer.asax.cs" caret="922" fromTop="23" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:AddressTypeController.cs" caret="220" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:AddrressController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:CategoryController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:ContactController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:ContactTypeController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:PaymentTypeController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Migrations/f:201209261208580_Removed Tables User Status and visit.cs" caret="856" fromTop="18" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:PersonController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:RegionTypeController.cs" caret="454" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:EmailTypeController.cs" caret="256" fromTop="11" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Migrations/f:Configuration.cs" caret="446" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Business/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Content/f:Site.css" caret="6059" fromTop="65" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Account/f:Login.cshtml" caret="0" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Scripts/f:jquery-1.8.0.js" caret="127573" fromTop="14" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:AccountController.cs" caret="1029" fromTop="25" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:HomeController.cs" caret="434" fromTop="19" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:BusinessController.cs" caret="464" fromTop="14" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Controllers/f:AdvertisementController.cs" caret="1011" fromTop="44" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Scripts/f:modernizr-2.0.6-development-only.js" caret="2571" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Content/f:consolidatedbase.css" caret="264449" fromTop="19" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="14729" fromTop="35" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="17871" fromTop="31" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="19398" fromTop="31" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="25432" fromTop="38" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="25371" fromTop="41" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="43020" fromTop="15" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="43020" fromTop="9" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="62905" fromTop="13" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="43020" fromTop="14" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Content/f:consolidatedbase.css" caret="270318" fromTop="36" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Content/f:consolidatedbase.css" caret="263567" fromTop="24" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Content/f:consolidatedbase.css" caret="264584" fromTop="25" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="3694" fromTop="9" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="7690" fromTop="31" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="10845" fromTop="35" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="16131" fromTop="38" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="43020" fromTop="16" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="37376" fromTop="19" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="37206" fromTop="20" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="37082" fromTop="34" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="39713" fromTop="44" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="38004" fromTop="22" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="21342" fromTop="19" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="22896" fromTop="18" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="19581" fromTop="81" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="5127" fromTop="8" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="8656" fromTop="25" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="10845" fromTop="29" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="15809" fromTop="29" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="15742" fromTop="34" />
+      <File id="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF/d:Views/d:Advertisement/f:Index.cshtml" caret="15675" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Businesses" priority="0" />
+      <Item value="Advertisement`0" priority="9" />
+      <Item value="Advertisements" priority="0" />
+      <Item value="public" priority="26" />
+      <Item value="int" priority="8" />
+      <Item value="virtual" priority="0" />
+      <Item value="Business`0" priority="4" />
+      <Item value="private" priority="1" />
+      <Item value="SelectList`0" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="new" priority="26" />
+      <Item value="SelectList" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="ad" priority="11" />
+      <Item value="Advertisement" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="List" priority="3" />
+      <Item value="regionList" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="db" priority="4" />
+      <Item value="this" priority="17" />
+      <Item value="vmAd" priority="18" />
+      <Item value="Business" priority="1" />
+      <Item value="Heading" priority="1" />
+      <Item value="RegionType" priority="1" />
+      <Item value="RegionType`0" priority="6" />
+      <Item value="regionType" priority="1" />
+      <Item value="ICollection" priority="0" />
+      <Item value="Regions" priority="3" />
+      <Item value="List&lt;RegionType&gt;" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="DbSet`0" priority="1" />
+      <Item value="Region`0" priority="4" />
+      <Item value="Region" priority="2" />
+      <Item value="Address`0" priority="0" />
+      <Item value="Address1" priority="0" />
+      <Item value="City" priority="1" />
+      <Item value="Addresses" priority="0" />
+      <Item value="Name" priority="7" />
+      <Item value="RegionId" priority="1" />
+      <Item value="m" priority="0" />
+      <Item value="AdApp1Db`0" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="List&lt;Business&gt;" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="BusinessId" priority="0" />
+      <Item value="Heading`0" priority="2" />
+      <Item value="if" priority="2" />
+      <Item value="null" priority="1" />
+      <Item value="EffectiveDate" priority="0" />
+      <Item value="ExporationDate" priority="0" />
+      <Item value="HeadingId" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="r" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="Information" priority="1" />
+      <Item value="RoleType`0" priority="2" />
+      <Item value="RoleType" priority="0" />
+      <Item value="Category" priority="3" />
+      <Item value="AuthorizationContext`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.AdApp1Db">
+      <Item value="Advertisements" priority="7" />
+      <Item value="Regions" priority="1" />
+      <Item value="RegionTypes" priority="0" />
+      <Item value="Businesses" priority="2" />
+      <Item value="Headings" priority="0" />
+      <Item value="Entry`0" priority="0" />
+      <Item value="RoleTypes" priority="1" />
+      <Item value="Categories" priority="1" />
+      <Item value="EmailTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Advertisement">
+      <Item value="Heading" priority="7" />
+      <Item value="Region" priority="0" />
+      <Item value="Business" priority="3" />
+      <Item value="EffectiveDate" priority="1" />
+      <Item value="ExporationDate" priority="1" />
+      <Item value="Regions" priority="4" />
+      <Item value="AdvertisementId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.RequiredNavigationPropertyConfiguration`2">
+      <Item value="WithMany`0" priority="1" />
+      <Item value="WithOptional`0" priority="1" />
+      <Item value="WithRequiredPrincipal`0" priority="0" />
+      <Item value="WithRequiredDependent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.RegionType">
+      <Item value="RegionTypeId" priority="5" />
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Find`0" priority="2" />
+      <Item value="AddOrUpdate`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.ViewModels.ViewModelAdvertisement">
+      <Item value="EffectiveDate" priority="0" />
+      <Item value="ExporationDate" priority="0" />
+      <Item value="HeadingText" priority="0" />
+      <Item value="RegionTypeId" priority="4" />
+      <Item value="Regions" priority="2" />
+      <Item value="Businesses" priority="2" />
+      <Item value="BusinessId" priority="1" />
+      <Item value="AdvertisementId" priority="1" />
+      <Item value="HeadingId" priority="1" />
+      <Item value="Heading" priority="0" />
+      <Item value="RegionId" priority="3" />
+      <Item value="RegionTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Heading">
+      <Item value="Text" priority="1" />
+      <Item value="HeadingId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="FirstOrDefault`1" priority="2" />
+      <Item value="First`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Find`0" priority="1" />
+      <Item value="First`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.EntityTypeConfiguration`1">
+      <Item value="HasMany`1" priority="0" />
+      <Item value="HasOptional`1" priority="1" />
+      <Item value="HasRequired`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.ManyNavigationPropertyConfiguration`2">
+      <Item value="WithRequired`0" priority="0" />
+      <Item value="WithMany`0" priority="0" />
+      <Item value="WithOptional`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.AdvertismentRegion">
+      <Item value="Advertisment" priority="0" />
+      <Item value="RegionType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Region">
+      <Item value="Advertisement" priority="0" />
+      <Item value="RegionId" priority="2" />
+      <Item value="Type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Address">
+      <Item value="Type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Business">
+      <Item value="Industries" priority="0" />
+      <Item value="Addresses" priority="0" />
+      <Item value="Contacts" priority="0" />
+      <Item value="PaymentOptions" priority="0" />
+      <Item value="Photos" priority="0" />
+      <Item value="Terms" priority="0" />
+      <Item value="BusinessId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.Configuration.DependentNavigationPropertyConfiguration`1">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Map`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Category">
+      <Item value="SubCategories" priority="0" />
+      <Item value="ParentCategoryId" priority="0" />
+      <Item value="ParentCategory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.Person">
+      <Item value="EmailAddresses" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Entity.Database">
+      <Item value="SetInitializer`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Infrastructure.DbEntityEntry`1">
+      <Item value="State" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdApp1.Models.EmailType">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

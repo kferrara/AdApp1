@@ -1,0 +1,202 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<body class="homePage homeaway_us ha" style="background:url(http://advertisedon.com/assets/img/boston.jpg) no-repeat scroll center center transparent;" >
+    <div class="background">
+        <div id="wrapper">
+            <div id="header"><a href="/" id="homeaway-logo"><img src="http://advertisedon.com/assets/img/logo.png" alt="HomeAway&reg;" width="275" height="55" /></a> 
+                <div id="tools">
+	                <ul>
+			            <li class="first flags">
+                            <a href="#country-flags" id="switch-locale" class="modalbox no-smooth-scroll {width:662,height:325,scroll:'no',bg:'none'} us">&nbsp;</a>
+                        </li>
+                        <span id='user-links-signin'>
+                        <li>
+    	                    <a href="~/Account/Login">Customer Login</a>
+                        </li>
+                        <li>
+    	                    <a href="~/Account/Login">Business Login</a>
+                        </li>
+                        </span>
+                        <li id="user-link">
+                        <li class="user-links-dropdown" id="user-links-li">
+                            <a href="#" id='user-links-dropdown'> <span class="user-links-button-dropdown"></span></a>
+                            <div class="user-links" id='user-links-list'>
+                                <ul>
+                                    <li class="user-links-li"><a href="/favorites" >Favorites<span class="favs-count"></span></a></li>
+                                    <li class="user-links-li"><a href="/favorites?inquired" >Inquired<span class="inq-count"></span></a></li>
+                                    <li class="user-links-li"><a href="/favorites?visited" >Viewed<span class="viewed-count"></span></a></li>
+                                    <li class="user-links-li"><a href="/traveler/profile">My Profile</a></li>
+                                    <li class="user-links-li"><a href="/traveler/profile/settings/edit">Settings</a></li>
+                                    <li class="user-links-li"><a href="/haolb/121/traveler/travdash.html">My Trips</a></li>
+                                    <li class="user-links-li signout-li"><a id="user-link-haod" href="#">Owner Dashboard</a></li>
+                                    <li class="user-links-li"><a href="#" id="signout" class="signout-li-inner">Logout</a></li>
+                                </ul>
+                            </div>
+                        </li>
+				        <li class='last'>
+					        <a href="~/Advertisement/Create" >Advertise Your Business</a>
+				        </li>
+	                </ul>
+                </div>
+                <ul id="global-nav">
+			        <li class="droplink" id="howitworks"><span class="menu-tab"><a href="#">How it Works</a><span class="drop-icon"></span></span>
+				        <div class="drop-menu">
+					        <ul>
+						        <li><a href="#">Customers</a></li>
+						        <li><a href="#">Business Owners</a></li>
+					        </ul>
+				        </div>
+			        </li>
+    		        <li><a href="#">Community</a></li>
+    		        <li class='last'><a href="#">Help</a></li>
+                </ul>
+            </div>
+            <div id="container">
+	            <div id="traveler">
+		            <div id="search">
+			                <div id="keyword">
+				                <form name="searchForm" id="simple-search" action="~/Advertisement/Index" method="get" enctype="application/x-www-form-urlencoded">
+					                <div id="search-input">
+                                        <input type="text" id="searchSuggest" disabled="disabled" class="suggestText" value="Search by city/town, zip or keyword" />
+						                <input type="text" id="searchKeywords" name="keywords" rel="Search by city/town, zip or keyword" class="default input-keyword focus-input" value="Search by city/town, zip or keyword" />
+						                <input type="submit" id="keyword-submit" class="search-submit-button" value="Go" />
+					                </div>
+					                <div id="search-options">
+						                <div id="date-inputs">
+							                <label for="startDateInput">Search for available Offers</label>
+							                <input class="datepicker datepicker-start default" id="startDateInput" value="Start Date" type="text" size="10" name="startDateInput" rel="Check-in" onkeydown="return false;" readonly="readonly" />
+							                <input class="datepicker datepicker-end default" id="endDateInput" value="End Date" type="text" size="10" name="endDateInput" rel="Check-out" onkeydown="return false;" readonly="readonly" />
+						                </div>
+						                <div class="select" id="bedrooms-select">
+							                <label for="bedrooms">Categories</label>
+							                <select name="refinements" class="make-menu" id="bedrooms">
+								                <option value="">Any</option>
+									            <option value="Bedrooms:Studio">All</option>
+									            <option value="Bedrooms:1">Automotive</option>
+									            <option value="Bedrooms:2">Restaurants</option>
+									            <option value="Bedrooms:3">Contractors</option>
+									            <option value="Bedrooms:4">Shopping</option>
+									            <option value="Bedrooms:5">Personal Care</option>
+									            <option value="Bedrooms:6">Home & Garden</option>
+                                                <option value="Bedrooms:6">Other</option>
+							                </select>
+						                </div>
+						                <div class="clear"></div>		
+					                </div>
+				                </form>
+			                </div>
+			                <div id="homepage-map">
+				                <img id="mapImage" usemap="#map_home" src="~/Images/massachusetts.jpg" width="418" height="280" alt="Massachusetts Advertisement Map!" title="Massachusetts Advertisement Map!" />
+			                </div>
+		                </div>
+                    <div id="slides">
+	                        <h1>Testimonials</h1>
+	                        <div id="slideshow">
+				                <div class="pics" id="slide-1">
+					                <p><b>"Since linking my business to AdvertisedOn.com my sales leads in the Massachusetts region have increased. 
+                                        I operate a HVAC company and just one new sale paid the annual subscription. I value this service to bring on new clients."</b>
+                                        <br />
+                                        <em>Ken Nielsen,  Owner AccuAire Inc.</em>
+                                    </p>
+                                    <br />
+                                    <p><b>"I believe in new channels to get my company recognized. Posting to  AdvertisedOn.com has added value by generating 
+                                        additional inquiries to my business."</b>
+                                        <br />
+                                        <em>Paul Clark,   Owner  Phoenix Electric</em>
+                                   </p>
+                                   <br />
+                                   <p><b>"I have worked with other advertising organizations during the past several years, but I believe that AdvertisedOn.com 
+                                       has the right model for me.  I enjoy the ability to change my promotions whenever I want all for a low annual subscription rate."</b>
+                                       <br />
+                                       <em>Joe Colombo,   Owner Colombo’s Café</em>
+                                   </p>
+				                </div>
+	                        </div>
+                        </div>
+                </div>
+                <div id="popular-topics">
+			        <h3><a href="#">Our Value</a></h3>
+					<div>
+						<p>
+							We are a talented group of entrepreneurs using the best technology to offer you, the business owner, a self-editing advertising venue at an affordable fixed price. 
+                            Our company learns quickly and has our business owner clients interests at heart. Several contests and giveaways are offered to our consumers that create a 
+                            profile on our site and patronize our business owner clients. Cool technology and non-technology prizes will be given away over the next several months. 
+                            Please check your email for details. Also, we are never too busy to accept referrals of your friends and family. 
+                            <br />
+                            <br />
+                            <em>We thank you.</em>
+                            <br />
+                            <em>–AdvertisedOn.com Management Team</em>
+						</p>
+                    </div>					
+                    <h3><a href="#">Building Brand Awareness and Lead Generation</a></h3>
+					<div>
+						<p>
+							AdvertisedOn.com is the leading online site for Massachusetts small and medium sized business advertising. We exist to help small and medium sized businesses 
+                            gain brand awareness, direct consumers to their websites, and to convert consumers into leads. We know online marketing.
+                            <br />
+                            <br />
+                             Let us help you so you can do what you do best.
+						</p>
+					</div>
+					<h3><a href="#">Business Solutions</a></h3>
+					<div>
+                        <p>
+                            In addition to business owners taking control of their advertising promotions, our sister company of ComputerVIP is able to help craft your existing website 
+                            into a world-class website with search optimization functionality. 
+                            <br />
+                            <br />
+                            You may contact us at 1-781-331-3120 for a free consultation.
+                        </p>
+				    </div>
+                </div>
+                <map name="map_home" id="map_home">
+	                <area shape="poly" href="#" alt="Boston" title="Boston" coords="307,104,302,111,268,117,271,107,283,104,293,97,300,97,307,99,307,104" />
+	                <area shape="poly" href="#" alt="Gloucester" title="Gloucester" coords="316,65,317,81,348,78,348,64,342,60,316,65" />
+	                <area shape="poly" href="#" alt="Salem" title="Salem" coords="292,72,294,91,304,93,314,83,313,64,292,72" />
+	                <area shape="poly" href="#" alt="Cambridge" title="Cambridge" coords="273,74,274,103,289,93,287,72,273,74" />
+	                <area shape="poly" href="#" alt="Lowell" title="Lowell" coords="215,62,222,83,247,83,252,73,245,61,215,62" />
+	                <area shape="poly" href="#" alt="Haverhill" title="Haverhill" coords="253,32,269,38,273,42,277,69,297,68,300,53,289,36,277,27,257,25,253,32" />
+	                <area shape="poly" href="#" alt="Worcester" title="Worcester" coords="173,115,226,116,228,141,211,141,194,137,192,121,173,120,173,115" />
+                </map>
+            </div>
+            <div id="footer">
+	            <div class="clear"></div>
+	            <div id="searchTextPosition" class="searchResultsSeo"></div>
+	                <div id="footer-nav">
+		                <ul>
+			                <li><a href="#">Site Map</a></li>
+			                <li><a href="#">Contact Us</a></li>
+			                <li><a href="#">About Us</a></li>
+                            <li><a href="#">Terms and Conditions</a></li>
+			                <li class='last'><a href="#">Privacy Policy</a></li>
+		                </ul>
+	                </div>
+                    <br />
+                    <p>Use of this Web site constitutes acceptance of the AdvertisedOn.com Terms and Conditions and Privacy Policy.</p>
+                    <p> © Copyright 2012-Present AdvertisedOn.com, Inc. All rights reserved.</p>
+                </div>
+        </div>
+    </div> 
+</body>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryui")
+
+    <script type="text/javascript">
+        $(function () {
+            $("#popular-topics").accordion({
+                collapsible: true,
+                navigation: true,
+                autoHeight: false,
+                active: false
+            });
+        });
+    </script> 
+}
+             
+                  

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="3E6D63B1-9B5C-4F7A-8DFD-8E7DB05002FF" ModuleId="AdApp1" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="EntityFramework" />
+  <Module PersistentId="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+</Modules>
